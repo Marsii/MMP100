@@ -10,8 +10,12 @@ h1{
   border-color: rgb(154, 81, 207);
 }
 head{background-color: rgb(197, 124, 252);}
-body{background-color: rgb(197, 124, 252);
-margin:0;
+body{
+    background-color: rgb(197, 124, 252);
+    margin-right: 150px;
+    margin-left: 150px;
+    border: 15px solid rgb(227, 154, 252);
+    text-align: center
 }
 h5{
   text-align: center;
