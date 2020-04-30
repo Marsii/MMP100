@@ -32,7 +32,7 @@ function draw() {
          counter = 0;
      }
 
-     if (mouseY < 100) {
+     if (mouseY < 400) {
          r = r + 1;
          b = b + 3;
          g = g - 1;
@@ -67,7 +67,7 @@ function draw() {
          counter3 = 260;
      }
 
-     if (mouseX < 100) {
+     if (mouseX < 400) {
          r2 = r2 + 1;
          b2 = b2 + 3;
          g2 = g2 - 1;

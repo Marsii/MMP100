@@ -3,6 +3,11 @@ h1{
   font-weight: bold;
   font-style: normal;
   text-align: center;
+      background-color: rgb(197, 124, 252);
+    border-style:inset;
+    border-width: 5px;
+    
+  border-color: rgb(154, 81, 207);
 }
 body{background-color: rgb(197, 124, 252)}
 h5{
@@ -16,3 +21,6 @@ p{
   text-align: center;
   font-family:"Arial"; 
 }
+head{background-color: rgb(197, 124, 252);}
+body{background-color: rgb(217, 192, 235);
+margin:0;}
