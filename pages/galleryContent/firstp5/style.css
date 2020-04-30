@@ -1,14 +1,13 @@
 body{
-    background-color: rgb(200);
+    
     background-color: rgb(237, 164, 232);
-    margin-right: 150px;
-    margin-left: 150px;
+    text-align: center;
+    margin:0;
 }
 
 iframe {
     border: none;
     overflow: hidden;
-    align-content:center;
 }
 
 head{
