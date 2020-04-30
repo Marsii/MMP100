@@ -9,7 +9,10 @@ h1{
     
   border-color: rgb(154, 81, 207);
 }
-body{background-color: rgb(197, 124, 252)}
+head{background-color: rgb(197, 124, 252);}
+body{background-color: rgb(197, 124, 252);
+margin:0;
+}
 h5{
   text-align: center;
   font-family:"Arial"; 
@@ -21,6 +24,4 @@ p{
   text-align: center;
   font-family:"Arial"; 
 }
-head{background-color: rgb(197, 124, 252);}
-body{background-color: rgb(217, 192, 235);
-margin:0;}
+
