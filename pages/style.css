@@ -3,24 +3,22 @@ h1 {
     font-weight: bold;
     font-style: normal;
     text-align: center;
+    background-color: rgb(197, 124, 252);
     border-style: inset;
     border-width: 5px;
-    
-    
-    border: 2px solid white;
-    background-color: rgba(255, 255, 255, 0.8);
+
+    border-color: rgb(154, 81, 207);
 }
 
-head {}
+head {
+    background-color: rgb(197, 124, 252);
+}
 
 body {
     background-color: rgb(197, 124, 252);
     font-family: "Lucida Console", Courier, monospace;
-    background-image: url("images/PanoRaster.png");
-    height: 500px;
-    background-position: center;
-    background-repeat: no-repeat;
 
+    
 
 }
 
@@ -41,8 +39,4 @@ p {
     font-family: "Arial";
     margin-right: 150px;
     margin-left: 150px;
-    box-sizing: border-box;
-    background-color: rgba(255, 255, 255, 0.8);
-    
-    float: center;
 }
