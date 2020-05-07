@@ -1,31 +1,40 @@
-h1{
-  font-family:"Arial";
-  font-weight: bold;
-  font-style: normal;
-  text-align: center;
-      background-color: rgb(197, 124, 252);
-    border-style:inset;
-    border-width: 5px;
-    
-  border-color: rgb(154, 81, 207);
-}
-head{background-color: rgb(197, 124, 252);}
-body{
+h1 {
+    font-family: "Arial";
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
     background-color: rgb(197, 124, 252);
+    border-style: inset;
+    border-width: 5px;
+
+    border-color: rgb(154, 81, 207);
+}
+
+head {
+    background-color: rgb(197, 124, 252);
+}
+
+body {
+    background-color: rgb(197, 124, 252);
+    font-family: "Lucida Console", Courier, monospace;
+
+}
+
+h5 {
+    text-align: center;
+
+}
+
+h4 {
+    text-align: center;
+
+}
+
+img {}
+
+p {
+    text-align: center;
+    font-family: "Arial";
     margin-right: 150px;
     margin-left: 150px;
-    border: 15px solid rgb(227, 154, 252);
-    text-align: center
 }
-h5{
-  text-align: center;
-  font-family:"Arial"; 
-}
-img{
-
-}
-p{
-  text-align: center;
-  font-family:"Arial"; 
-}
-
