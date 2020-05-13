@@ -1,5 +1,5 @@
 h1 {
-    font-family: "Arial";
+    font-family: "Lucida Console";
     font-weight: bold;
     font-style: normal;
     text-align: center;
@@ -18,7 +18,7 @@ body {
     background-color: rgb(197, 124, 252);
     font-family: "Lucida Console", Courier, monospace;
 
-    
+
 
 }
 
@@ -32,11 +32,39 @@ h4 {
 
 }
 
-img {}
 
 p {
-    text-align: center;
-    font-family: "Arial";
-    margin-right: 150px;
-    margin-left: 150px;
+    text-align: left;
+    font-family: "Lucida Console";
+    margin-left: 0px;
+    box-sizing: border-box;
+
+    float: right;
+}
+
+.accordion {
+    background-color: rgb(225, 175, 255);
+    color: #333;
+    cursor: pointer;
+    padding: 10px;
+    width: 50%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+    font-family: "Lucida Console";
+}
+
+.active,
+.accordion:hover {
+    background-color: #c4aed4;
+}
+
+.panel {
+    padding: 0 15px;
+    margin-right: 250px;
+    display: none;
+    background-color: rgb(235, 195, 255);
+    overflow: hidden;
 }
