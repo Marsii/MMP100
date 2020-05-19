@@ -1,0 +1,39 @@
+h1 {
+    font-family: "Arial";
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(197, 224, 152);
+    align-content: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+h5 {
+    text-align: center;
+    font-family: "Arial";
+
+}
+
+h4 {
+    margin-right: 100px;
+    padding: 10px;
+    margin-left: 100px;
+    background-color: rgba(227, 254, 202, .6);
+}
+
+img {}
+
+p {
+    background-color: rgba(217, 254, 192, .8);
+    text-align: center;
+    font-family: "Arial";
+    margin-right: 80px;
+    margin-left: 80px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-width: thin;
+}
