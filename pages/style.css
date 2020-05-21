@@ -15,7 +15,7 @@ head {
 }
 
 body {
-    background-color: rgb(197, 124, 252);
+    background: linear-gradient(0deg, rgba(255, 165, 148, 1) 0%, rgba(255, 118, 223, 1) 51%, rgba(197, 122, 252, 1) 100%);
     font-family: "Lucida Console", Courier, monospace;
 
 
