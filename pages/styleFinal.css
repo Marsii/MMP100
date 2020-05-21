@@ -6,10 +6,12 @@ h1 {
 }
 
 body {
-    background-color: rgb(197, 224, 152);
+    background-image: linear-gradient(rgb(207, 234, 172), rgb(137, 224, 102));
     align-content: center;
+    text-align: center;
     padding-left: 15px;
     padding-right: 15px;
+    font-family: "Arial";
 }
 
 h5 {
@@ -23,6 +25,11 @@ h4 {
     padding: 10px;
     margin-left: 100px;
     background-color: rgba(227, 254, 202, .6);
+}
+
+h4 {
+    padding: 10px;
+    background-color: rgba(227, 254, 202, .9);
 }
 
 img {}
