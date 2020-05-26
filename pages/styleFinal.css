@@ -34,6 +34,10 @@ h4 {
 
 img {}
 
+ul {
+    align-content: center
+}
+
 p {
     background-color: rgba(217, 254, 192, .8);
     text-align: center;
